@@ -1,0 +1,269 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2024-02-21T10:42:49.907867+00:00",
+  "custom_fields": {
+    "meeting:meeting": {
+      "acronym": "ISBI 2024",
+      "title": "International Symposium on Biomedical Imaging"
+    }
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "111-Justified Referral in AI Glaucoma Screening_2024-02-20T14-59-10.pdf": {
+        "checksum": "md5:d7f8ef00a098188b3c3b48bc49169a8c",
+        "ext": "pdf",
+        "id": "e714851e-3594-418a-94c0-41be1736df9c",
+        "key": "111-Justified Referral in AI Glaucoma Screening_2024-02-20T14-59-10.pdf",
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 102717
+      }
+    },
+    "order": [],
+    "total_bytes": 102717
+  },
+  "id": "10687097",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/10687097/access",
+    "access_links": "https://zenodo.org/api/records/10687097/access/links",
+    "access_request": "https://zenodo.org/api/records/10687097/access/request",
+    "access_users": "https://zenodo.org/api/records/10687097/access/users",
+    "archive": "https://zenodo.org/api/records/10687097/files-archive",
+    "archive_media": "https://zenodo.org/api/records/10687097/media-files-archive",
+    "communities": "https://zenodo.org/api/records/10687097/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/10687097/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.10687097",
+    "draft": "https://zenodo.org/api/records/10687097/draft",
+    "files": "https://zenodo.org/api/records/10687097/files",
+    "latest": "https://zenodo.org/api/records/10687097/versions/latest",
+    "latest_html": "https://zenodo.org/records/10687097/latest",
+    "media_files": "https://zenodo.org/api/records/10687097/media-files",
+    "parent": "https://zenodo.org/api/records/10687096",
+    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.10687096",
+    "parent_html": "https://zenodo.org/records/10687096",
+    "requests": "https://zenodo.org/api/records/10687097/requests",
+    "reserve_doi": "https://zenodo.org/api/records/10687097/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/10687097",
+    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.10687097",
+    "self_html": "https://zenodo.org/records/10687097",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10687097/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10687097/sequence/default",
+    "versions": "https://zenodo.org/api/records/10687097/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Rotterdam Ophthalmic Institute, Rotterdam Eye Hospital, Rotterdam, The Netherlands"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Vermeer",
+          "given_name": "Koenraad A.",
+          "name": "Vermeer, Koenraad A.",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Rotterdam Ophthalmic Institute, Rotterdam Eye Hospital, Rotterdam, The Netherlands"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Lemij",
+          "given_name": "Hans G.",
+          "name": "Lemij, Hans G.",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Ophthalmology, Department of Genetics, Genomics"
+          },
+          {
+            "name": "Informatics, Director of the Data Mining and Machine Learning (DM2L) Laboratory, University of Tennessee Health Science Center, Memphis, USA"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Yousefi",
+          "given_name": "Siamak",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8633-5730",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Yousefi, Siamak",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Ophthalmology, University of Tennessee Health Science Center, Memphis, USA"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Madadi",
+          "given_name": "Yeganeh",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4292-3404",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Madadi, Yeganeh",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Ophthalmology, University of Tennessee Health Science Center, Memphis, USA"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Raja",
+          "given_name": "Hina",
+          "name": "Raja, Hina",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Glaucoma is a leading cause of irreversible blindness and impaired vision. In its early stages, the disease is typically asymptomatic. With more advanced glaucoma, the visual field is affected; as a result, patients stumble more often, bump into objects and other people, and may be more often involved in traffic accidents and falls. Only in the late stages of the disease, are patients more aware of their visual impairment. They may experience trouble reading, suffer from night-blindness, or suffer from other symptoms of impaired vision. Once detected, glaucoma can be treated so that any disease progression be effectively stopped or slowed down, but the damage cannot be repaired. Early detection and timely treatment of this disease can therefore avoid visual impairment; early detection could be facilitated through population-based glaucoma screening. Glaucoma affects the optic nerve, i.e., the connection between the eye and the brain; this disease is also known as glaucomatous optic neuropathy (GON). It is typically identified based on the appearance of the optic nerve head and its surroundings, for instance on color fundus photographs (CFPs) or other imaging modalities. In clinical practice, one other imaging technique is optical coherence tomography (OCT), which plays an ever-growing role in the diagnosis and follow-up of GON. For screening purposes, however, CFPs are relatively inexpensive. These photographs provide crucial information for assessing various features of glaucomatous damage. These features include neuroretinal rim thinning and notching, increased cupping and optic disc hemorrhages. In addition, glaucomatous thinning of the retinal nerve fiber layer (RNFL) may be readily visible on CFPs. Furthermore, CFPs have an additional benefit in that they provide a record of the eye's baseline condition, serving as a reference for future follow-up.<br>Manual identification of these features can provide higher accuracy when performed by experienced specialists. However, manual segmentation is subjective and can vary among different observers. Automated detection algorithms, on the other hand, can provide consistent and reproducible results and subsequently reduce inter-observer and intra-observer variability. Manual segmentation can be also time-consuming and labor-intensive, especially for large datasets or complex cases. On the other hand, automated algorithms can process images more rapidly, thus may provide efficient solutions for large scale screening. Artificial intelligence (AI) approaches for detecting glaucoma based on CFPs have been extensively investigated previously and have provided promising results. In the context of screening, for low prevalence diseases such as glaucoma, specificity is of primary importance and should be very high in order to prevent referring many false positive cases to the health care system. Therefore, the model should be highly dependable and provide clinically relevant outcomes.<br>However, current AI methods merely indicate whether an individual requires to be referred to an ophthalmologist or not, but do not provide any justification for the underlying pathology. Understanding the typically glaucomatous features that the algorithm suggests for referring an individual improves trust as well as enables human experts to identify errors in the decision process due to physiological or pathological deviations.<br>To initiate the development of such AI algorithms for glaucoma screening and to evaluate their performance, we propose the Justified Referral in AI Glaucoma Screening (JustRAIGS) challenge, for which we have provided a unique large dataset with over 110k carefully annotated fundus photographs collected from about 60,000 screenees. We have generated a training subset with 101,442 gradable fundus images (from &lsquo;referable glaucoma &lsquo;eyes and &lsquo;no referable glaucoma&rsquo; eyes) and a test subset with 9,741 fundus images. Each fundus photograph thus has been labeled as either &lsquo;referable glaucoma&rsquo; or &lsquo;no referable glaucoma&rsquo;. In addition, all fundus images of referable glaucoma eyes have been further annotated with up to ten additional labels associated with different glaucomatous features. In this challenge, participants will be tasked with analyzing the fundus images and assigning each image to one of two classes: &lsquo;referable glaucoma&rsquo; or &lsquo;no referable glaucoma&rsquo;. &lsquo;Referable glaucoma&rsquo; refers to eyes where the fundus image exhibits signs or features indicative of glaucoma that require further examination or referral to a specialist. In this case, visual field damage is expected. On the other hand, &lsquo;no referable glaucoma&rsquo; refers to cases where the fundus image does not show significant indications of glaucoma and does not require immediate referral. Very early disease, in which visual field damage is not yet expected, would also be classified as &lsquo;no referable glaucoma&rsquo;. In addition to the referable glaucoma classification, participants will be further instructed to perform multi-label classification for ten additional features related to glaucoma. These features are specific characteristics or abnormalities that may be present in the fundus images of glaucoma patients. The multi-label classification task involves assigning relevant labels to each fundus image based on the presence or absence of these specific features. These additional features provide more detailed information about the specific characteristics observed in the fundus images of &lsquo;referable glaucoma&rsquo; cases. By combining both the binary classification task (referable vs. no referable glaucoma) and the multi-label classification task (for the ten additional features), we aim to evaluate the participants' ability to accurately identify and classify fundus images associated with referable glaucoma. The results of this classification task can provide insights into the development of automated systems or algorithms for glaucoma detection, ultimately assisting in the early identification and treatment of glaucoma patients, thereby reducing avoidable visual impairment and blindness from glaucoma.</p>",
+    "publication_date": "2024-02-21",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "other",
+      "title": {
+        "de": "Sonstige",
+        "en": "Other"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Glaucoma"
+      },
+      {
+        "subject": "Screening"
+      },
+      {
+        "subject": "Fundus images"
+      },
+      {
+        "subject": "Referral"
+      },
+      {
+        "subject": "Justification"
+      },
+      {
+        "subject": "ophthalmology"
+      },
+      {
+        "subject": "Artificial Intelligence (AI) model"
+      },
+      {
+        "subject": "ISBI challenges"
+      }
+    ],
+    "title": "Justified Referral in AI Glaucoma Screening"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": 87637
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "10687096",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.10687096",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.10687097",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:10687097",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 4,
+  "stats": {
+    "all_versions": {
+      "data_volume": 5135850.0,
+      "downloads": 50,
+      "unique_downloads": 41,
+      "unique_views": 41,
+      "views": 44
+    },
+    "this_version": {
+      "data_volume": 5135850.0,
+      "downloads": 50,
+      "unique_downloads": 41,
+      "unique_views": 41,
+      "views": 44
+    }
+  },
+  "status": "published",
+  "updated": "2024-02-21T10:42:50.100038+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
